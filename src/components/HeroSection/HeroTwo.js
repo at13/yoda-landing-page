@@ -29,7 +29,7 @@ class HeroSection extends Component {
                         <div className="welcome-intro">
                         <h1>{this.state.data.heading}</h1>
                         <p className="my-4">{this.state.data.content}</p>
-                        <a href="/#" className="btn">{this.state.data.btnText}</a>
+                        <a href="https://app.yoda.guru/#/signup" target="_blank" className="btn">{this.state.data.btnText}</a>
                         </div>
                     </div>
                     <div className="col-12 col-md-5">

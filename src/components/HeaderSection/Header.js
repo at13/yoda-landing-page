@@ -36,7 +36,7 @@ class Header extends Component {
                                     <a className="nav-link scroll" href="#contact">Contact</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link scroll" href="#contact">Login</a>
+                                    <a className="nav-link scroll" href="https://app.yoda.guru/#/login" target="_blank">Login</a>
                                 </li>
                             </ul>
                         </nav>
